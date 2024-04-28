@@ -16,4 +16,4 @@ ai助手-敏感内容处理
 ai助手-预置角色对话功能开发
 
 实现界面如下：
-
+![text](https://github.com/xudji/aiCopyWriting-gpt/blob/main/asset/ai%E5%8A%A9%E6%89%8B.png)
