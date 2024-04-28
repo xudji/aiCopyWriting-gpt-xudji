@@ -1,4 +1,4 @@
-# xudji-aiCopyWriting-gpt
+# aiCopyWriting-gpt-xudji
 前端手写大模型界面，实现对话效果，通过sse连接，后端对接讯飞
 
 比市面上所有实现方式的都简单，代码量1千多行，一个页面实现
